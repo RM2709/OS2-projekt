@@ -1,0 +1,7 @@
+1) Dupli klik na OOS_Projekt.sln
+
+2) Klik na zeleni "Start" gumb da bi se program kompajlirao i pokrenuo
+
+3) Sučelje se sastoji samo od gumbova, s minimalnim unosima podataka. Većina podataka se unosi u same tekstualne datoteke koje se nalaze na sljedećoj putanji: OS_Projekt\OS_Projekt\bin\Debug
+
+4) U datoteku "jasni_tekst" korisnik upisuje svoju poruku koju je onda uz pomoć gumbova u programu moguće dešifrirati simetričnim i asimetričnim algoritmom, sažeti te digitalno potpisati. Program automatski stvara datoteke svih međukoraka.
